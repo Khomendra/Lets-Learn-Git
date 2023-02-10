@@ -3,7 +3,7 @@ class Minus{
         int a = 20;
         int b = 30;
 
-        System.out.println("Minus Operation");
+        System.out.println("Minus Operation Performed");
         System.out.println("Minus of "+b+"-"+a+": "+(b-a));
     }
 }
